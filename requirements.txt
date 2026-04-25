@@ -1,0 +1,15 @@
+For Financial Data Ingestion & Manipulation:
+yfinance
+pandas
+numpy
+
+Machine Learning & Deep Learning:
+xgboost
+torch
+transformers
+scikit-learn
+joblib
+
+For Data Visualization & Networking:
+matplotlib
+requests
